@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Profile
+
+```
+Hello my name is `tifani`
+
+Im studying at Paramadina University, major informatics class of 2023
+
+```
